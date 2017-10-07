@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlidingRootSample</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="counts">今日步数</string>
+    <string name="amount">10240</string>
+    <string name="username">Trevor DeWitt</string>
+</resources>
